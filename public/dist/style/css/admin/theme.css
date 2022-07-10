@@ -1,0 +1,33 @@
+.btn-custom-1 {
+    color: #716D66;
+    background-color: #ece7dd;
+}
+
+.btn-custom-1:hover {
+    border-color: transparent;
+    color: #4d4537;
+    background-color: #dad1be;
+}
+
+.bg-custom {
+    background-color: #fcfaf7;
+}
+
+.bg-custom-2 {
+    background-color: #dfdad2;
+}
+
+
+/* slider theme */
+.bg-slider-green {
+    color: #ffffff;
+    background: #11998e;
+    background: -webkit-linear-gradient(to left, #38ef7d, #11998e);
+    background: linear-gradient(to left, #38ef7d, #11998e);
+}
+.bg-slider-green .slider-body .nav .nav-link{
+    color: white;
+}
+.bg-slider-green .slider-body .nav .nav-link:hover{
+    color: rgb(220, 220, 220);
+}
